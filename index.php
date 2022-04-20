@@ -5,6 +5,7 @@
     <title>Title</title>
 </head>
 <body>
+    <h3>九九乘法表</h3>
 <table border="1" cellspacing="0">
     <?php
     for ($i = 1 ; $i <= 9 ; $i++ ){
